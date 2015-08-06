@@ -1,0 +1,27 @@
+body {
+    font-family: Courier;
+}
+
+h3 {
+    text-align: center;
+    font-style: bold;
+    border-radius: 2px black;
+    background-color: #0d3349;
+}
+
+.groupname {
+    border: 2px solid black;
+    display: inline;
+    margin: 25px;
+    padding: 25px;
+}
+
+.buttondiv {
+    margin: 25px;
+    padding: 25px;
+}
+
+.groupsdiv {
+    margin: 25px;
+}
+
